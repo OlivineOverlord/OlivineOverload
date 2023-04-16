@@ -1,4 +1,4 @@
-### Hi there 👋  I'm [Josh Shea](https://github.com/OlivineOverlord).
+### Hello there 👋  I'm [Josh Shea](https://github.com/OlivineOverlord).
 
 I am a postdoctoral research associate in the [Department of Materials](https://www.materials.manchester.ac.uk/) at The University of Manchester. I am an experimental petrologist and igneous geochemist. My interests are in chemical process in the mantle under both sub- and super-solidus conditions. 
 
