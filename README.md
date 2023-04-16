@@ -1,7 +1,7 @@
-## Hi 👋, I'm [Josh](https://github.com/OlivineOverlord).
+### Hi 👋, I'm [Josh](https://github.com/OlivineOverlord).
 
-### Postdoctoral Research Associate, [Department of Materials](https://www.materials.manchester.ac.uk/), The University of Manchester
-Experimental Petrologist & Analytical Geochemistry
+#### Postdoctoral Research Associate, [Department of Materials](https://www.materials.manchester.ac.uk/), The University of Manchester
+##### Experimental Petrologist & Analytical Geochemistry
 
 - 💎   Currently working mantle phase transitions under stress and olivine-type cathodes for Li-ion batteries
 - 🌱   Learning to quantify XRF and apply machine learning to geochemical data
