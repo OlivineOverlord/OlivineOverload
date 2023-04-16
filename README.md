@@ -11,4 +11,4 @@ I am a postdoctoral research associate in the [Department of Materials](https://
   * ResearchGate: [Joshua Shea](https://www.researchgate.net/profile/Joshua-Shea)
   * ORCID: [Joshua Shea](https://orcid.org/0000-0001-7869-1479)
 
-![Josh Shea's github stats](https://github-readme-stats.vercel.app/api?username=OlivineOverlord)
+![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlivineOverlord_progress=true)](https://github.com/anuraghazra/github-readme-stats)
