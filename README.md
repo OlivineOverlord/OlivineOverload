@@ -1,7 +1,6 @@
-### Hi 👋,
-### I'm [Josh](https://github.com/OlivineOverlord).
+## Hi 👋, I'm [Josh](https://github.com/OlivineOverlord).
 
-# Postdoctoral Research Associate Department of Materials](https://www.materials.manchester.ac.uk/), The University of Manchester
+### Postdoctoral Research Associate [Department of Materials](https://www.materials.manchester.ac.uk/), The University of Manchester
 Experimental Petrologist & Analytical Geochemistry
 
 - 💎   Currently working mantle phase transitions under stress and olivine-type cathodes for Li-ion batteries
