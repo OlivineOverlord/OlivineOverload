@@ -1,6 +1,6 @@
-<iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">via GIPHY</a></p>
+![hellothere](https://user-images.githubusercontent.com/26037898/233669967-f455e80f-e589-4e5b-8ed6-8d3474720c87.gif)
 
-### Hi 👋, I'm [Josh](https://github.com/OlivineOverlord).
+### I'm [Josh](https://github.com/OlivineOverlord).
 
 #### I'm a Postdoctoral Research Associate in [The Department of Materials](https://www.materials.manchester.ac.uk/) @ The University of Manchester
 I research experimental petrology & analytical geochemistry
