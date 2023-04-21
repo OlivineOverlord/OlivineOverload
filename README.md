@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="[demo.gif](https://user-images.githubusercontent.com/26037898/233669967-f455e80f-e589-4e5b-8ed6-8d3474720c87.gif)" alt="animated" />
+</p>
+
+
 ![hellothere](https://user-images.githubusercontent.com/26037898/233669967-f455e80f-e589-4e5b-8ed6-8d3474720c87.gif)
 
 ### I'm [Josh](https://github.com/OlivineOverlord).
